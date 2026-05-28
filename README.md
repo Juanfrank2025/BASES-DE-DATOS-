@@ -7,7 +7,7 @@ BASES DE DATOS.
 
 👤 **Desarrollador:** Juan Francisco Hernández <br>
 🏫 **Institución:** Instituto Nacional de Osicala (INO)  <br>
-👨‍🏫 ** Modulo: Bases de Datos.
+👨‍🏫 **Bases de Datos.
 
 ---
 
