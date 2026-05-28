@@ -1,4 +1,5 @@
 <center>BASES DE DATOS.</center>
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=336791&height=200&section=header&text=Proyecto%20de%20Bases%20de%20Datos&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </div>
