@@ -6,7 +6,7 @@ BASES DE DATOS.
 # 🗄️ Gestión y Administración de Bases de Datos
 
 👤 **Desarrollador:** Juan Francisco Hernández
-🏫 **Institución:** Instituto Nacional de Osicala (INO)  
+🏫 **Institución:** Instituto Nacional de Osicala (INO)  <br>
 👨‍🏫 **Módulo / Docente:** Desarrollo de Software - Prof. [Juan Francisco Hernández]
 
 ---
